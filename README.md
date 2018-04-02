@@ -7,5 +7,5 @@ A Discord Bot in NodeJS for mentioning a random user in a server, roulette style
 * Run the app with `npm start`.
 
 ## Notes
-This bot requires a Discord API token which can be obtained here: https://discordapp.com/developers/applications/me
+This bot requires a Discord API token which can be obtained here: https://discordapp.com/developers/applications/me \
 If this bot's name begins with 'someone', it can't be called from clients which have received the @someone April update.
