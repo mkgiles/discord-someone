@@ -1,0 +1,14 @@
+{
+  "name": "some-bot",
+  "version": "1.0.0",
+  "description": "A bot for @someone functionality",
+  "main": "bot.js",
+  "author": "Conor James Giles",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "winston": "^2.4.1"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
